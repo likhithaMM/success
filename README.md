@@ -38,8 +38,18 @@ hello
       
  **Applying a Link**
  
-[google]{www.google.com}     
+[google](www.google.com)     
 
 **Image**
 
 ![squidGame](https://gerhardinger.org/wp-content/uploads/2018/03/icon-Peace-600.png)
+
+**Task List**
+
+ - []  https://github.com/octo-org/octo-repo/issues/740
+
+name|s.no
+----|----
+Likki|1
+Siri|2
+Upma|3
